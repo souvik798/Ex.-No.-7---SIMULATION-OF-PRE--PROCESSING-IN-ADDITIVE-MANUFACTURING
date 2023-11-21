@@ -1,5 +1,5 @@
 # Ex. No. 7 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -45,8 +45,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:SOUVIK KUNDU
+### Register Number: 212221230105
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
